@@ -1,9 +1,11 @@
 ### About me
 
-<h1 align="center">Hi 👋, I'm Geon Kim 🧑‍💻</h1>
+<h1 align="center">Hi 👋, I'm Geon Kim! 🧑‍💻</h1>
 <h3 align="center">Turning idea into reality through code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geon405&label=Profile%20views&color=0e75b6&style=flat" alt="geon405" /> </p>
+
+- 🌱 I’m currently studying at **Concordia University**
 
 - 💬 Ask me about **Java, Python, and coding techniques**
 
