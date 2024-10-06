@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geon405&label=Profile%20views&color=0e75b6&style=flat" alt="geon405" /> </p>
 
-- 🌱 I’m currently studying at **Concordia University**
+- 🌱 I’m currently studying **Computer Science** at **Concordia University**
 
 - 💬 Ask me about **Java, Python, and coding techniques**
 
