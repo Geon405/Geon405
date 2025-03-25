@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align="center">Hi 👋, I'm Geon! 🧑‍💻</h1>
+<h1 align="center">Hi 👋, I'm Geon! Software Development Engineer at CRR 🧑‍💻</h1>
 <h3 align="center">Turning idea into reality through code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geon405&label=Profile%20views&color=0e75b6&style=flat" alt="geon405" /> </p>
