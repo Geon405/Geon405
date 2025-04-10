@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **Computer Science** at **Concordia University**
 
-- 💬 Ask me about **Java, Python, and coding techniques**
+- 💬 Ask me about **Java, Python, C# and coding techniques**
 
 - 📫 How to reach me **kg000405@gmail.com**
 
