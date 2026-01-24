@@ -1,5 +1,7 @@
 ### About me
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=2000&width=435&lines=Hey%2C+I'm+Geon+Kim+%F0%9F%98%8E" alt="Typing SVG" /></a>
+
 <h1 align="center">Hello World! 👋, I'm Geon, Software Development Engineer 🧑‍💻</h1>
 <h3 align="center">Turning idea into reality through code.</h3>
 
