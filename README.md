@@ -23,7 +23,7 @@
 | :--- | :--- | :--- |
 | **[Ghost-Writer](https://github.com/Geon405/Ghost-Writer)** | **ConUHacks X (2026) Submission.** An AI-powered tool that digitizes handwritten notes into formatted LaTeX & Markdown documents. | JavaScript, React, Gemini AI |
 | **[Flight-Delay-Prediction](https://github.com/Geon405/Flight-Delay-Prediction)** | **Data Analysis Project.** Investigates how weather conditions (precipitation, wind, temp) impact flight schedules by merging datasets and visualizing correlations. | Python, Pandas, SQL, Matplotlib, Seaborn |
-| **[BankUML](https://github.com/Geon405/BankUML)** | A banking system simulation implementing core operations and account management using UML design principles. | Java, OOP |
+| **[BankUML](https://github.com/Geon405/BankUML)** | **Banking System Simulation.** A Java application implementing core banking operations (transactions, auth) based on strict OOP principles and UML architecture. | Java, OOP, UML, Maven |
 | **[VolleyballClubDatabase](https://github.com/Geon405/VolleyballClubDatabase)** | A database application system developed for the Montréal Youth Volleyball Club (MYVC). | PHP, MySQL |
 | **[NRC_Internship](https://github.com/Geon405/NRC_Internship)** | **Modular Building Layout Generator.** A C# and Revit API tool that automates 3D layouts using graph-based space planning and force-directed algorithms. | C#, Revit API, .NET |
 
