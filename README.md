@@ -1,8 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=2000&width=435&lines=Hey%2C+I'm+Geon+Kim+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=2000&width=435&lines=Hey%2C+I'm+Geon+Kim+%F0%9F%98%8E;I+turn+ideas+into+reality." alt="Typing SVG" /></a>
-
-<h1 align="center">Hello World! 👋 I'm Geon, Software Engineer 🧑‍💻</h1>
+<h1 align="center">Hello World! 👋 I'm Geon, Software Development Engineer 🧑‍💻</h1>
 <h3 align="center">Turning ideas into reality through code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geon405&label=Profile%20views&color=0e75b6&style=flat" alt="geon405" /> </p>
@@ -24,10 +22,9 @@
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Ghost-Writer](https://github.com/Geon405/Ghost-Writer)** | **ConUHacks X (2026) Submission.** An AI-powered tool that digitizes handwritten notes into formatted LaTeX & Markdown documents. | JavaScript, React, Gemini AI |
-| **[Well-FI](https://github.com/Geon405/Well-FI)** | Project submitted for the SunLife Challenge at Concordia Hackathon IX. Focuses on financial wellness tracking. | TypeScript, React |
 | **[Flight-Delay-Prediction](https://github.com/Geon405/Flight-Delay-Prediction)** | Analyzing flight delay patterns using SQL queries and pandas data frames to explore weather impacts. | Python, Jupyter, Pandas, SQL |
 | **[BankUML](https://github.com/Geon405/BankUML)** | A banking system simulation implementing core operations and account management using UML design principles. | Java, OOP |
-| **[VolleyballClubDatabase](https://github.com/Geon405/VolleyballClubDatabase)** | A database application system developed for the Montréal Youth Volleyball Club (MYVC) (COMP 353). | PHP, MySQL |
+| **[VolleyballClubDatabase](https://github.com/Geon405/VolleyballClubDatabase)** | A database application system developed for the Montréal Youth Volleyball Club (MYVC). | PHP, MySQL |
 | **[NRC_Internship](https://github.com/Geon405/NRC_Internship)** | Professional development work involving C# systems. | C# |
 
 ---
