@@ -21,7 +21,7 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Ghost-Writer](https://github.com/Geon405/Ghost-Writer)** | **ConUHacks X (2026) Submission.** An AI-powered tool that digitizes handwritten notes into formatted LaTeX & Markdown documents. | JavaScript, React, Gemini AI |
+| **[Ghost-Writer](https://github.com/Geon405/Ghost-Writer)** | **ConUHacks X (2026) Submission.** An AI-powered tool that digitizes handwritten notes into formatted LaTeX & Markdown documents. | Flask, React, Gemini AI |
 | **[Flight-Delay-Prediction](https://github.com/Geon405/Flight-Delay-Prediction)** | **Data Analysis Project.** Investigates how weather conditions (precipitation, wind, temp) impact flight schedules by merging datasets and visualizing correlations. | Python, Pandas, SQL, Matplotlib, Seaborn |
 | **[BankUML](https://github.com/Geon405/BankUML)** | **Banking System Simulation.** A Java application implementing core banking operations (transactions, auth) based on strict OOP principles and UML architecture. | Java, OOP, UML, Maven |
 | **[Well-FI](https://github.com/Geon405/Well-FI)** | **SunLife Challenge (Concordia Hackathon IX).** An AI-powered financial wellness app featuring expense visualization, goal tracking, and an AI assistant. | React, Flask, OpenAI API, Chart.js |
