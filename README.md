@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=2000&width=435&lines=Hey%2C+I'm+Geon+Kim+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
-<h1 align="center">Hello World! 👋 I'm Geon, Robotics Software Engineer 🦾</h1>
+<h1 align="center">Hello World! 👋 I'm Geon, Software Engineer 🦾</h1>
 <h3 align="center">Bridging the gap between software logic and physical machines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geon405&label=Profile%20views&color=0e75b6&style=flat" alt="geon405" /> </p>
