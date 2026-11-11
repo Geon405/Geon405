@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geon405&label=Profile%20views&color=0e75b6&style=flat" alt="geon405" /> </p>
 
-- 🌱 I’m currently studying **Computer Science** at **Concordia University**
+- 🌱 I graduated with **Bachelor of Computer Science** from **Concordia University**
 - 💬 Ask me about **Java, Python, C#, SQL, and Full-Stack Development**
 - 📫 Reach me at **kg000405@gmail.com**
 
