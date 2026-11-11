@@ -7,7 +7,7 @@
 
 - 🌱 I graduated with **Bachelor of Computer Science** from **Concordia University**
 - 💬 Ask me about **Java, Python, C#, SQL, and Full-Stack Development**
-- 📫 Reach me at **kg000405@gmail.com**
+- 📫 Reach me at **rlarjs000405g@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
